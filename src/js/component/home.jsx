@@ -61,11 +61,11 @@ const Home = () => {
           }
         ></div>
       </div>
-      {/* <div className="mt-5">
-        <button onClick={document.querySelector} className="butn">
+      <div className="mt-5">
+        {/* <button onClick={document.querySelector} className="butn">
           Add purple color
-        </button>
-      </div> */}
+        </button> */}
+      </div>
     </div>
   );
 };
